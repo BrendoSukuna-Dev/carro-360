@@ -1,6 +1,7 @@
 <h1>🚗 Visualizador de Carro 360º</h1>
-<img width="1861" height="956" alt="Image" src="https://github.com/user-attachments/assets/1ed0bfe7-e7a5-4285-a08e-6a74bc54ec12" />
-<h2>🖥 Projeto Concluido ✅ </h2> 
+<img width="1861" height="958" alt="Image" src="https://github.com/user-attachments/assets/bbb06d30-d3ec-448a-ad37-61ab79dcb600" />
+<h2>🖥 Projeto Concluido ✅</h2>
+<p>Faz parte do porjeto concessionária esportiva que está em desenvolvimento.</p>
 
 ## 📋 Sobre o projeto
 <p>Este projeto consiste em um visualizador interativo que permite ao usuário rotacionar um veículo em 360 graus utilizando o movimento do mouse.
