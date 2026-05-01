@@ -1,20 +1,65 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-    background-image: radial-gradient(#7f3d9e, #6d00d9);
+    box-sizing: border-box;  
     overflow: hidden;
+    font-family: 'Poppins', sans-serif;
 }
 
 body {
-    background-color: #ddd;
+    background-image: radial-gradient(#7f3d9e, #6d00d9);
+    z-index: 1;
+}
+
+header {
+    color: #fff;
+    position: fixed;
+    width: 80vw;
+    left: 50%;
+    transform: translateX(-50%);
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 600px;
+    gap: 100px;  /*alterar para 10% ele ja botou 100px*/
+    z-index: 1;
+
+    & img {
+        width: 250px;
+    }
+
+    & nav {
+        & ul {
+            display: grid;
+            grid-template-columns: repeat(3, 200px);
+        }
+    }
 }
 
 .container {
     width: 100%;
+    position: relative;
+    text-align: center;
 }
 
 .container img {
     width: 100%;
     -webkit-user-drag: none;
+}
+
+.car-image {
+    position: relative;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: -1;
+}
+
+.texto {
+    color: #fff;
+    margin-bottom: 100%;
+    margin-top: -45%;
+    margin-left: 42%;
+    font-size: 280%;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
 }
