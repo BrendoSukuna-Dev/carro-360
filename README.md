@@ -1,5 +1,5 @@
 <h1>🚗 Visualizador de Carro 360º</h1>
-<img width="1860" height="1266" alt="Image" src="https://github.com/user-attachments/assets/7aac981f-d166-4698-9f24-69b7b3a357a3" />
+<img width="1861" height="956" alt="Image" src="https://github.com/user-attachments/assets/1ed0bfe7-e7a5-4285-a08e-6a74bc54ec12" />
 <h2>🖥 Projeto Concluido ✅ </h2> 
 
 ## 📋 Sobre o projeto
