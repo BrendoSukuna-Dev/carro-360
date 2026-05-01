@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: radial-gradient(#7f3d9e, #6d00d9);
+}
+
+body {
+    background-color: #ddd;
+}
+
+.container {
+    width: 100%;
+}
+
+.container img {
+    width: 100%;
+    -webkit-user-drag: none;
+    background-image: radial-gradient(#7f3d9e, #6d00d9);
+}
