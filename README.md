@@ -1,7 +1,7 @@
 <h1>🚗 Visualizador de Carro 360º</h1>
 <img width="1861" height="958" alt="Image" src="https://github.com/user-attachments/assets/bbb06d30-d3ec-448a-ad37-61ab79dcb600" />
 <h2>🖥 Projeto Concluido ✅</h2>
-<p>Faz parte do porjeto concessionária esportiva que está em desenvolvimento.</p>
+<p>Faz parte do projeto concessionária esportiva que está em desenvolvimento.</p>
 
 ## 🔗 Link do projeto
 ➥ https://carro-360.vercel.app
